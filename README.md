@@ -3,7 +3,7 @@
 Project: Battling Covid-19
 Organization: WOMEN WHO CODE
 
-##Objectives
+# Objectives
 
 Project was aimed at finding discrepancies between Covid19 cases and deaths amongst people of different race and ethnicities in each US County. 
 
