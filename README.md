@@ -22,7 +22,7 @@ Numpy, Pandas, Sci-kit Learn, Matplotlib, Seaborn, Amazon Sagemaker
 1. Pre-Processing (One-Hot Encoder)
 2. Standardisation
 3. Exploratory Data Analysis
-4. Principal Componenet Analysis (PCA)
+4. Principal Component Analysis (PCA)
 
 # Machine Learning Algorithm
 K-Means Clustering
