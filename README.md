@@ -1,7 +1,9 @@
 # Covid19-racialtracker
 
 Project: Battling Covid-19
+
 Organization: WOMEN WHO CODE
+
 Team : Ainna Zafar (Team Lead), Madhavi Duggasani, Mohamed Shaaban
 
 # Objectives
